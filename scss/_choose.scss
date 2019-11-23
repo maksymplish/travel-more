@@ -1,0 +1,38 @@
+.ba-section-choose {
+  background: $primary-color url(../img/bg-choose.jpg) no-repeat;
+  background-size: cover;
+  min-height: 100vh;
+  background-attachment: fixed;
+  color: #fff;
+  position: relative;
+  display: flex;
+  align-items: center;
+}
+
+.ba-choose-text {
+	width: 50%;
+  color: #e8e8e8;
+  font-family: $click-font-family;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 26px;
+  letter-spacing: 1.6px;
+
+
+  h2 {
+	color: #ffffff;
+	font-family: $body-font-family;
+	font-size: 36px;
+	font-weight: 400;
+	line-height: 26px;
+ }
+}
+
+.ba-button {
+  border: none;
+  width: 225px;
+  height: 60px;
+  align-items: center;
+  background: $primary-color url(../img/Rectangle_8.png) no-repeat;
+}
+

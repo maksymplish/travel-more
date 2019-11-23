@@ -1,0 +1,15 @@
+.ba-section-spain1 {
+  background: url(../img/spain1.jpg) no-repeat;
+  background-size: cover;
+  min-height: 100vh;
+  background-attachment: fixed;
+  color: #fff;
+  position: relative;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center; }
+
+/*# sourceMappingURL=_spain1.css.map */

@@ -1,0 +1,40 @@
+.ba-section-tourist {
+  background: $primary-color url(../img/bg-tourist.jpg) no-repeat;
+  background-size: cover;
+  min-height: 100vh;
+  background-attachment: fixed;
+  color: #fff;
+  position: relative;
+  display: flex;
+  align-items: center;
+
+  h2 {
+    display: flex;
+    justify-content: center;
+    color: #ffffff;
+    font-family: $click-font-family;
+    font-size: 36px;
+    font-weight: 400;
+    line-height: 26px;
+  }
+
+}
+
+.tourist-bg{
+	background: #333333;
+
+	h3{
+color: $text-color;
+font-family: $click-font-family;
+font-size: 20px;
+line-height: 26px;
+text-transform: uppercase;
+	}
+
+	p{
+color: $text-color;
+font-family: $body-font-family;
+font-size: 16px;
+line-height: 26px;
+	}
+}
